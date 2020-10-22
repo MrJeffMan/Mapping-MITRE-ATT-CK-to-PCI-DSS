@@ -27,7 +27,9 @@ Find the MITRE ATT&CK Framework here: https://attack.mitre.org/
 Have at it!
 
 Jeffrey E. Man
+
 Host, Security & Compliance Weekly
+
 INFOSEC Curmudgeon
 
 jeff.man@cyberriskalliance.com 
