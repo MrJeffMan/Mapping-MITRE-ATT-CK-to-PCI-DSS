@@ -1,2 +1,35 @@
 # Mapping-MITRE-ATT-CK-to-PCI-DSS
-MITRE ATT&amp;CK® seems to be the“next big thing”. Every time I hear about it I can’t help but wonder, “how doyou prevent all these attacks in the first place? Shouldn’t that be the endgame?” To that end, I set out to map all the recommended “Mitigations” for allthe “Techniques” detailed in ATT&amp;CK to see how many are already addressedby what is required in the Payment Card Industry Data Security Standard (PCIDSS). 
+
+Thank you for your interest in mapping MITRE ATT&CK™ to the PCI DSS.
+
+In this github you'll find a spreadsheet with my original mappings, the PCI Community Meeting edition of my talk, plus a longer version that I have given when not bound to the 20 min. time limit.
+
+If you are interested in seeing the "long" version of the talk you can find it here:
+
+https://www.cover6solutions.com/mapping-mitre-attack-to-pci-dss/ 
+
+There is also a 'Security Weekly Virtual Hacker Summer Camp' version on youtube you can find here:
+
+https://youtu.be/V0h9jlm315s
+
+Or simply search for this episode on youtube: "SWVHSC: Mapping MITRE ATT&CK to PCI DSS - Jeff Man - ESW #193"
+
+Otherwise, feel free to review my work and compare to your take on the mappings. 
+
+There is actually an updated version of MITRE ATT&CK that has not been mapped yet - mostly several hundred new "sub-techniques".
+
+I'm curious to see how your mappings might differ from mine, particularly whether you agree with the explicit/implicit/need to squint categories.
+
+Have at it!
+
+
+Jeffrey E. Man
+Host, Security & Compliance Weekly
+INFOSEC Curmudgeon
+
+jeff.man@cyberriskalliance.com | Mobile: 301-310-4275
+https://securityweekly.com/category-shows/security-and-compliance-weekly/
+
+        
+
+
