@@ -20,14 +20,18 @@ There is actually an updated version of MITRE ATT&CK that has not been mapped ye
 
 I'm curious to see how your mappings might differ from mine, particularly whether you agree with the explicit/implicit/need to squint categories.
 
-Have at it!
+Find the current version of the PCI DSS here: https://www.pcisecuritystandards.org/document_library
 
+Find the MITRE ATT&CK Framework here: https://attack.mitre.org/
+
+Have at it!
 
 Jeffrey E. Man
 Host, Security & Compliance Weekly
 INFOSEC Curmudgeon
 
-jeff.man@cyberriskalliance.com | Mobile: 301-310-4275
+jeff.man@cyberriskalliance.com 
+
 https://securityweekly.com/category-shows/security-and-compliance-weekly/
 
         
